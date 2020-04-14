@@ -18,7 +18,7 @@ template_comms = "**Слова с наибольшим общественным 
 
 
 
-token = "543294251:AAF-IpOvlt9aV1TgPbg212Lw_Le2244hCw8"
+token = "***" # Токен энивей уже давно не действителен, так что если достанешь из старых коммитов – пользуйся на здоровье
 bot = telebot.TeleBot(token)
 url = "https://api.telegram.org/bot%s/", token
 admins = [275230932, 368898013, 234756807]
